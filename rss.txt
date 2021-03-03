@@ -10,6 +10,27 @@ http://www.economist.com/feeds/print-sections/76/britain.xml
 #https://rsshub.app/leemeng
 #https://sspai.com/feed
 
+#The Economist
+http://www.economist.com/feeds/print-sections/79/finance-and-economics.xml
+http://www.economist.com/feeds/print-sections/74/international.xml
+http://www.economist.com/feeds/print-sections/73/asia.xml
+http://www.economist.com/feeds/print-sections/77729/china.xml
+http://www.economist.com/feeds/print-sections/80/science-and-technology.xml
+http://www.economist.com/feeds/print-sections/89/books-and-arts.xml
+http://www.economist.com/feeds/print-sections/103/special-reports.xml
+http://www.economist.com/feeds/print-sections/77/business.xml
+
+http://www.economist.com/feeds/print-sections/102/briefings2.xml
+http://www.economist.com/rss/leaders_rss.xml
+http://www.economist.com/feeds/print-sections/71/united-states.xml
+
+https://www.economist.com/europe/rss.xml
+https://www.economist.com/the-world-this-week/rss.xml
+https://www.economist.com/the-americas/rss.xml
+https://www.economist.com/middle-east-and-africa/rss.xml
+https://www.economist.com/finance-and-economics/rss.xml
+
+
 # Game
 #https://gamejilu.com/rss/
 #https://www.4gamers.com.tw/rss/latest-news
