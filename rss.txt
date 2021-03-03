@@ -1,6 +1,7 @@
 # Blog
 #https://acoup.blog/feed/
 http://www.economist.com/feeds/print-sections/77/business.xml
+http://www.economist.com/feeds/print-sections/76/britain.xml
 #https://feeds.bbci.co.uk/mundo/rss.xml
 #http://feeds.feedburner.com/playpc
 #http://feeds.feedburner.com/ruanyifeng
